@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pavelsokolhere
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning an algorithms and pyton
+- 💞️ I’m looking to collaborate on ML projects
+- 📫 Rich me here
